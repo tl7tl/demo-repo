@@ -1,2 +1,2 @@
 # demo-repo
-Demo for study.
+Demo for studying via youtube :)
